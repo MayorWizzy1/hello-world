@@ -11,3 +11,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for Github.
 
 I love Github.
+
+God Never Fails!
